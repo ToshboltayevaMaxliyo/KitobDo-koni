@@ -117,7 +117,8 @@ body {
 
 a {
   color: #333;
-  text-decoration: none; }
+  text-decoration: none;
+ }
 
 a:visited {
   color: #333; }
@@ -6247,6 +6248,7 @@ section.wn_contact_area {
 .wrapper-boxed-layout .header-menu {
 	width: calc(91%);
 	left: 14px;
+	padding: 0
 } 
 .maincontent {
   padding-bottom: 80px;
@@ -6255,3 +6257,4 @@ section.wn_contact_area {
   padding-bottom: 60px;
 }
 }
+
