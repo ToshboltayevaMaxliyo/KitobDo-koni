@@ -1877,7 +1877,7 @@ Header Styles
     .mainmenu__nav .meninmenu li a {
 	  align-items: center;
 	  align-self: stretch;
-	  color: #333;
+	  color: tomato;
 	  display: flex;
 	  font-size: 14px;
 	  font-weight: 600;
@@ -6257,4 +6257,8 @@ section.wn_contact_area {
   padding-bottom: 60px;
 }
 }
-
+.bottom h1 {
+colot: red,
+padding: 5px,
+margin: 100px auto
+}
